@@ -3,7 +3,9 @@ Usage of Temperature and Humidity sensor with LCD I2C display
 
 
 ### ABOUT THIS PROJECT
-I have used Arduino UNO for this project.
+I have used Arduino UNO for this project. You can use other cards.
+
+**NOTE:** If you use another board, you may need to relocate the "SDA, SCL" pins. You can find out by looking at the data sheet of the card you are using.
 
 **First, make the connection of the DHT sensor with the Arduino board.**
 
@@ -49,3 +51,17 @@ Search for `LiquidCrystal I2C` on the Search box and install the LCD I2C.
 ## Demonstration
 
 <img src="https://user-images.githubusercontent.com/109466846/198638376-0854f354-8be3-4c77-9b0d-401cd2785f10.mp4" width="600" height="350" />
+
+## LCD Failed 
+
+If you don't see any text on the LCD, try this. 
+
+*Before*
+
+<img src="https://user-images.githubusercontent.com/109466846/198660824-311e3914-dfc7-48f0-8204-910e7819b38b.png" width="400" height="25" />
+
+*After*
+
+<img src="https://user-images.githubusercontent.com/109466846/198659910-0b98e323-0425-4721-8395-e616f0f35db7.png" width="400" height="25" />
+
+
