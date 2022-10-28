@@ -7,8 +7,8 @@
 #include <LiquidCrystal_I2C.h>
 #include "DHT.h"
 
-LiquidCrystal_I2C lcd(0x3f, 16, 2);
-//LiquidCrystal_I2C lcd(0x27, 16, 2);
+//LiquidCrystal_I2C lcd(0x3f, 16, 2);
+LiquidCrystal_I2C lcd(0x27, 16, 2);
 
 #define DHTPIN 4
 #define DHTTYPE DHT11
