@@ -46,6 +46,6 @@ Search for `LiquidCrystal I2C` on the Search box and install the LCD I2C.
 
 <img src="https://user-images.githubusercontent.com/109466846/198632690-ddf1bd27-3f7f-4c83-a819-5d9decd9a485.png" width="600" height="350" />
 
-##Demonstration
+## Demonstration
 
 <img src="https://user-images.githubusercontent.com/109466846/198638376-0854f354-8be3-4c77-9b0d-401cd2785f10.mp4" width="600" height="350" />
